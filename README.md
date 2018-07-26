@@ -1,4 +1,4 @@
-PHLeGrA - Pipeline for Hidden Variable Linked Graph Analytics
+PHLeGrA - Linked Graph Analytics in Pharmacology
 
 Order of the scripts to run (These scripts also include the FAERS preprocessing steps):
 * drug-network.py
